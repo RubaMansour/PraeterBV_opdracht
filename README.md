@@ -7,11 +7,11 @@ Om met dit project te starten:
 1. Open je terminal of command prompt.
 2. Voer dit commando uit om de repository te klonen:
    ```bash
-   git clone <repository_url>
+   git clone (https://github.com/RubaMansour/PraeterBV_opdracht.git)
    ```
 3. Ga naar de map van de gekloonde repository:
    ```bash
-   cd <repository_map>
+   cd PraeterBV_opdracht
    ```
 4. Wissel naar de branch met het definitieve werk:
    ```bash
